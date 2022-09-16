@@ -2,7 +2,7 @@
 
 ## HTML Introduction
 
-HTML is the standard markup language for creating Web pages.
+**HTML is the standard markup language for creating Web pages.**
 
 ### What is HTML?
 
